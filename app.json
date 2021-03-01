@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Recruitment-App",
+    "slug": "Recruitment-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon122.png",
+    "splash": {
+      "image": "./assets/icon122.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon122.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.Recruitment.Recruitment",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/icon122.png"
+    }
+  }
+}
